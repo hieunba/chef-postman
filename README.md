@@ -1,4 +1,3 @@
 # postman
 
-TODO: Enter the cookbook description here.
-
+Installs Postman based on pre-built binrary from Postman.
